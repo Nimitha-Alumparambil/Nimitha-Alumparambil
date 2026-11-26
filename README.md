@@ -19,9 +19,9 @@ April 2020
 
 
 ## AWARDS AND CERTIFICATIONS:
-Wipro Melbourne - Best Employee STAR Award and Best New Joinee Award 2022
-ISTQB– Certified Tester Foundation Level
-Atlassian – Jira and Confluence Fundamentals
+- Wipro Melbourne - Best Employee STAR Award and Best New Joinee Award 2022
+- ISTQB– Certified Tester Foundation Level
+- Atlassian – Jira and Confluence Fundamentals
 
 
 
