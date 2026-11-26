@@ -10,6 +10,21 @@ Versatile Test Automation Engineer with extensive experience in developing and m
 - **Cloud Services:** Google Cloud Platform (GCP)
 - **Database:** SQL for Data Validation and Backend Testing
 
+## EDUCATION:
+School of Engineering - CUSAT
+Bachelor of Technology in Electronics and Communication Engineering,
+First Class with Distinction (CGPA: 9.15 / 10)
+Kerala, India
+April 2020
+
+
+## AWARDS AND CERTIFICATIONS:
+Wipro Melbourne - Best Employee STAR Award and Best New Joinee Award 2022
+ISTQB– Certified Tester Foundation Level
+Atlassian – Jira and Confluence Fundamentals
+
+
+
 
 
 Feel free to connect with me!
