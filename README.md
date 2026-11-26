@@ -1,11 +1,14 @@
 # Hi, I'm Nimitha Alumparambil 👋
-I’m a Test Automation Engineer with over 2 years of experience in automating web and API testing. I’m proficient in Java, Selenium, Playwright, and have hands-on experience with CI/CD tools like Jenkins and GitLab. 
+Versatile Test Automation Engineer with extensive experience in developing and maintaining test automation frameworks using Selenium and Playwright. Proficient in Java and well-versed in API testing with Postman and RestAssured, ensuring robust validation of SOAP and REST web services. Strong expertise in SQL and SQL Server, combined with experience in integrating automated tests into CI/CD pipelines using GitLab and Jenkins. Adept at managing test planning, execution, and utilizing tools like Jira, Confluence, and ALM to ensure alignment with project goals and quality standards. Committed to driving continuous improvement in testing processes and delivering reliable, high-quality software solutions.
+
+
 
 ## Skills:
-- **Programming Languages:** Java, SQL
-- **Automation Tools:** Selenium, Playwright, JUnit , TestNG
-- **CI/CD:** Jenkins, GitLab
+- **Programming Languages:** Java, Python, TypeScript/JavaScript
+- **Automation Tools:** Selenium, Playwright, Appium, TestNG, JUnit, Cucumber, RestAssured, Postman
+- **CI/CD:** GitLab CI, Jenkins, Azure DevOps, Jenkins using Git and Docker
 - **Cloud Services:** Google Cloud Platform (GCP)
+- **Database:** SQL for Data Validation and Backend Testing
 
 
 
